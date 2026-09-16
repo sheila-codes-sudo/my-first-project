@@ -1,14 +1,21 @@
-#my first project
+# My First Project
 
-welcome to my first GitHub project
-this repository project contains my first programing exercises as i learn programing
+Welcome to my first GitHub project! 🎉
 
-#what I am learning
+This repository contains my first programming exercises as I learn programming and Data Science.
 
-   java 
-   python
-   C++
-   C
+## What I am learning
 
-   ##Author
-   sheila
+- Python
+- C++
+- C
+- Java
+- Data Science
+
+## Purpose
+
+This project is for practicing programming, learning GitHub, and tracking my progress as I develop my coding skills.
+
+## Author
+
+sheila
